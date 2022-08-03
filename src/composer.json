@@ -1,0 +1,17 @@
+{
+    "name": "umar/calculator",
+    "description": "this demo package will do some calculations",
+    "autoload": {
+        "psr-4": {
+            "Imageuploader\\Imageuploader\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Umar Jahangir",
+            "email": "phpbackenddeveloper90@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
