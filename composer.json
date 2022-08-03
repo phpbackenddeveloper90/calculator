@@ -3,7 +3,7 @@
     "description": "this demo package will do some calculations",
     "autoload": {
         "psr-4": {
-            "Imageuploader\\Imageuploader\\": "src/"
+            "Umar\\Calculator\\": "src/"
         }
     },
     "authors": [
